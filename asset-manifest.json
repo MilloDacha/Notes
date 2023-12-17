@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/MilloDacha/Notes.git/static/js/main.24a9ef52.js",
-    "index.html": "/MilloDacha/Notes.git/index.html",
-    "main.24a9ef52.js.map": "/MilloDacha/Notes.git/static/js/main.24a9ef52.js.map"
+    "main.js": "/Notes/static/js/main.24a9ef52.js",
+    "index.html": "/Notes/index.html",
+    "main.24a9ef52.js.map": "/Notes/static/js/main.24a9ef52.js.map"
   },
   "entrypoints": [
     "static/js/main.24a9ef52.js"
